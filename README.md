@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon Okruch</h1>
-<img align="center" src="https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png"/>
+<img align="center" src="https://cdn.thenewstack.io/media/2022/04/f0f4609d-lighted_keyboard-1024x576.jpg"/>
 <h3 align="center">A machine learning and AI passionate from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymondesign&label=Profile%20views&color=0e75b6&style=flat" alt="szymondesign" /> </p>
