@@ -21,9 +21,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/doughkeeper1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doughkeeper1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/szymon okruch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymon okruch" height="30" width="40" /></a>
-<a href="https://fb.com/szymon okruch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="szymon okruch" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/theszymondesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theszymondesign" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/szymon-okruch-183991195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymon okruch" height="30" width="40" /></a>
+<a href="https://www.facebook.com/szymon.okruch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="szymon okruch" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
